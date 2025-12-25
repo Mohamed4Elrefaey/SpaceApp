@@ -1,16 +1,18 @@
-# space
+👇
 
-A new Flutter project.
+🌌 Space & Planets App – Description (Professional)
 
-## Getting Started
+Space & Planets is an educational app that explores the wonders of our solar system.
+The app presents high-quality images of all planets along with detailed scientific information to help users understand each planet clearly and easily.
 
-This project is a starting point for a Flutter application.
+For every planet, the app provides:
+Distance from the Sun (km)
+Length of Day (hours)
+Orbital Period (Earth years)
+Radius (km)
+Mass (kg)
+Gravity (m/s²)
+Surface Area (km²)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Designed with a simple and elegant interface, Space & Planets is perfect for students, space enthusiasts, and anyone curious about astronomy.
+The app combines visual beauty with accurate data to deliver an engaging learning experience.
